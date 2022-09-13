@@ -1,11 +1,11 @@
 # connect-customvision-to-powerapps
 A lab test reader using a Power Apps front-end with a Custom Vision classification model.
 
-![AAA](https://user-images.githubusercontent.com/83891373/189936707-3393f828-940d-42c3-a555-0608c1c6fa76.jpg)
+[ANAReader Project Description.pdf](https://github.com/ermls/connect-customvision-to-powerapps/files/9559244/ANAReader.Project.Description.pdf)
 
 2. Demo Data Flow Diagram.
 
-![BBB](https://user-images.githubusercontent.com/83891373/189932293-234c26f3-516d-496c-9968-7829114570fc.jpg)
+[ANAReader Data Flow Diagram.pdf](https://github.com/ermls/connect-customvision-to-powerapps/files/9559245/ANAReader.Data.Flow.Diagram.pdf)
 
 3. Build and deploy an Azure Custom Vision model. The API key and endpoint will be used to connect the model to
 the Power App interface.
