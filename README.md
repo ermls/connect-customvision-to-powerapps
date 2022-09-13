@@ -24,8 +24,14 @@ the Power App interface.
 
 ![2D](https://user-images.githubusercontent.com/83891373/189790851-a7722dac-68a1-480d-ad53-e78a81b3211e.jpg)
 
-5. The app is now ready to be tested and used.
+5. Test app.
 
 ![3A](https://user-images.githubusercontent.com/83891373/189921755-aedc327c-cb41-46a5-be8b-8c2c5ecd97e4.jpg)
 
 ![3B](https://user-images.githubusercontent.com/83891373/189923297-1da9b757-be58-4ca3-9901-dc2707ebae86.jpg)
+
+6. Deploy app.
+
+![4A](https://user-images.githubusercontent.com/83891373/189974684-9373e736-b039-47a2-a35e-b10ce23eba41.jpeg)
+
+![4D](https://user-images.githubusercontent.com/83891373/189974713-1e47886a-2b6b-4da6-9f6e-9c985e758776.jpeg)
