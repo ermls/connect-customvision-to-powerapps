@@ -32,6 +32,6 @@ the Power App interface.
 
 6. Deploy app.
 
-![4A](https://user-images.githubusercontent.com/83891373/189974684-9373e736-b039-47a2-a35e-b10ce23eba41.jpeg)
+![4A](https://user-images.githubusercontent.com/83891373/189991027-6111e09e-354b-4fa3-9654-ecd2b8c6dcf2.jpeg)
 
-![4D](https://user-images.githubusercontent.com/83891373/189974713-1e47886a-2b6b-4da6-9f6e-9c985e758776.jpeg)
+![4B](https://user-images.githubusercontent.com/83891373/189991033-3f7b1266-0da0-4fc9-b176-d222d702325a.jpeg)
