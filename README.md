@@ -1,6 +1,8 @@
 # connect-customvision-to-powerapps
 A lab test reader using a Power Apps front-end with a Custom Vision classification model.
 
+1. DemonProject Description.
+
 [ANAReader Project Description.pdf](https://github.com/ermls/connect-customvision-to-powerapps/files/9559244/ANAReader.Project.Description.pdf)
 
 2. Demo Data Flow Diagram.
