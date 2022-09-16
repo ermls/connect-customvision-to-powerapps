@@ -20,7 +20,7 @@ the Power App interface.
 
 ![2A](https://user-images.githubusercontent.com/83891373/189790824-afd72950-3b9b-43de-83aa-c376c218e365.jpg)
 
-![2B](https://user-images.githubusercontent.com/83891373/189790836-a5cee6c2-b668-4b2c-8bd1-316cc7d9ebef.jpg)
+![2B](https://user-images.githubusercontent.com/83891373/190551896-65c6f98b-f004-49db-bae1-50d18f246154.jpg)
 
 ![2C](https://user-images.githubusercontent.com/83891373/189992212-a28dbc71-d7d9-4f68-9e56-8e3409499382.jpg)
 
